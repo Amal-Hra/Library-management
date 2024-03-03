@@ -1,0 +1,54 @@
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-Amal_Hra_2710319\bin\Debug\UA2-Amal_Hra_2710319.exe.config
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-Amal_Hra_2710319\bin\Debug\UA2-Amal_Hra_2710319.exe
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-Amal_Hra_2710319\bin\Debug\UA2-Amal_Hra_2710319.pdb
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-Amal_Hra_2710319\obj\Debug\UA2-Amal_Hra_2710319.csproj.AssemblyReference.cache
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-Amal_Hra_2710319\obj\Debug\UA2-Amal_Hra_2710319.csproj.SuggestedBindingRedirects.cache
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-Amal_Hra_2710319\obj\Debug\MainWindow.g.cs
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-Amal_Hra_2710319\obj\Debug\App.g.cs
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-Amal_Hra_2710319\obj\Debug\UA2-Amal_Hra_2710319_MarkupCompile.cache
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-Amal_Hra_2710319\obj\Debug\UA2-Amal_Hra_2710319_MarkupCompile.lref
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-Amal_Hra_2710319\obj\Debug\MainWindow.baml
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-Amal_Hra_2710319\obj\Debug\UA2-Amal_Hra_2710319.g.resources
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-Amal_Hra_2710319\obj\Debug\UA2_Amal_Hra_2710319.Properties.Resources.resources
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-Amal_Hra_2710319\obj\Debug\UA2-Amal_Hra_2710319.csproj.GenerateResource.cache
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-Amal_Hra_2710319\obj\Debug\UA2-Amal_Hra_2710319.csproj.CoreCompileInputs.cache
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-Amal_Hra_2710319\obj\Debug\UA2-Amal_Hra_2710319.exe
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-Amal_Hra_2710319\obj\Debug\UA2-Amal_Hra_2710319.pdb
+C:\Users\elhay\Downloads\UA2\UA2\UA2-Amal_Hra_2710319\bin\Debug\UA2-Amal_Hra_2710319.exe.config
+C:\Users\elhay\Downloads\UA2\UA2\UA2-Amal_Hra_2710319\bin\Debug\UA2-Amal_Hra_2710319.exe
+C:\Users\elhay\Downloads\UA2\UA2\UA2-Amal_Hra_2710319\bin\Debug\UA2-Amal_Hra_2710319.pdb
+C:\Users\elhay\Downloads\UA2\UA2\UA2-Amal_Hra_2710319\obj\Debug\UA2-Amal_Hra_2710319.csproj.AssemblyReference.cache
+C:\Users\elhay\Downloads\UA2\UA2\UA2-Amal_Hra_2710319\obj\Debug\MainWindow.g.cs
+C:\Users\elhay\Downloads\UA2\UA2\UA2-Amal_Hra_2710319\obj\Debug\App.g.cs
+C:\Users\elhay\Downloads\UA2\UA2\UA2-Amal_Hra_2710319\obj\Debug\UA2-Amal_Hra_2710319_MarkupCompile.cache
+C:\Users\elhay\Downloads\UA2\UA2\UA2-Amal_Hra_2710319\obj\Debug\UA2-Amal_Hra_2710319_MarkupCompile.lref
+C:\Users\elhay\Downloads\UA2\UA2\UA2-Amal_Hra_2710319\obj\Debug\MainWindow.baml
+C:\Users\elhay\Downloads\UA2\UA2\UA2-Amal_Hra_2710319\obj\Debug\UA2-Amal_Hra_2710319.g.resources
+C:\Users\elhay\Downloads\UA2\UA2\UA2-Amal_Hra_2710319\obj\Debug\UA2_Amal_Hra_2710319.Properties.Resources.resources
+C:\Users\elhay\Downloads\UA2\UA2\UA2-Amal_Hra_2710319\obj\Debug\UA2-Amal_Hra_2710319.csproj.GenerateResource.cache
+C:\Users\elhay\Downloads\UA2\UA2\UA2-Amal_Hra_2710319\obj\Debug\UA2-Amal_Hra_2710319.csproj.CoreCompileInputs.cache
+C:\Users\elhay\Downloads\UA2\UA2\UA2-Amal_Hra_2710319\obj\Debug\UA2-Amal_Hra_2710319.exe
+C:\Users\elhay\Downloads\UA2\UA2\UA2-Amal_Hra_2710319\obj\Debug\UA2-Amal_Hra_2710319.pdb
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-Khalil\UA2\UA2\UA2-Amal_Hra_2710319\bin\Debug\UA2-Amal_Hra_2710319.exe.config
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-Khalil\UA2\UA2\UA2-Amal_Hra_2710319\bin\Debug\UA2-Amal_Hra_2710319.exe
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-Khalil\UA2\UA2\UA2-Amal_Hra_2710319\bin\Debug\UA2-Amal_Hra_2710319.pdb
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-Khalil\UA2\UA2\UA2-Amal_Hra_2710319\obj\Debug\UA2-Amal_Hra_2710319.csproj.AssemblyReference.cache
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-Khalil\UA2\UA2\UA2-Amal_Hra_2710319\obj\Debug\UA2-Amal_Hra_2710319.csproj.SuggestedBindingRedirects.cache
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-Khalil\UA2\UA2\UA2-Amal_Hra_2710319\obj\Debug\MainWindow.g.cs
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-Khalil\UA2\UA2\UA2-Amal_Hra_2710319\obj\Debug\App.g.cs
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-Khalil\UA2\UA2\UA2-Amal_Hra_2710319\obj\Debug\UA2-Amal_Hra_2710319_MarkupCompile.cache
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-Khalil\UA2\UA2\UA2-Amal_Hra_2710319\obj\Debug\UA2-Amal_Hra_2710319_MarkupCompile.lref
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-Khalil\UA2\UA2\UA2-Amal_Hra_2710319\obj\Debug\MainWindow.baml
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-Khalil\UA2\UA2\UA2-Amal_Hra_2710319\obj\Debug\UA2-Amal_Hra_2710319.g.resources
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-Khalil\UA2\UA2\UA2-Amal_Hra_2710319\obj\Debug\UA2_Amal_Hra_2710319.Properties.Resources.resources
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-Khalil\UA2\UA2\UA2-Amal_Hra_2710319\obj\Debug\UA2-Amal_Hra_2710319.csproj.GenerateResource.cache
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-Khalil\UA2\UA2\UA2-Amal_Hra_2710319\obj\Debug\UA2-Amal_Hra_2710319.csproj.CoreCompileInputs.cache
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-Khalil\UA2\UA2\UA2-Amal_Hra_2710319\obj\Debug\UA2-Amal_Hra_2710319.exe
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-Khalil\UA2\UA2\UA2-Amal_Hra_2710319\obj\Debug\UA2-Amal_Hra_2710319.pdb
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-BiblioProject\obj\Debug\UA2-Amal_Hra_2710319.csproj.AssemblyReference.cache
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-BiblioProject\obj\Debug\MainWindow.g.cs
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-BiblioProject\obj\Debug\App.g.cs
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-BiblioProject\obj\Debug\UA2-Amal_Hra_2710319_MarkupCompile.cache
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-BiblioProject\obj\Debug\UA2-Amal_Hra_2710319_MarkupCompile.lref
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-BiblioProject\obj\Debug\UA2-Amal_Hra_2710319.exe
+D:\CLC Session3\App Bureau\Exams\UA2\UA2-BiblioProject\obj\Debug\UA2-Amal_Hra_2710319.pdb
